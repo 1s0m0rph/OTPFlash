@@ -1,0 +1,3 @@
+random information is stored in this text file
+we only create it to make sure that
+encryption and decryption both work correctly.
